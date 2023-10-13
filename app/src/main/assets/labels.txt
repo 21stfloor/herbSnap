@@ -1,0 +1,10 @@
+0 Apot
+1 Lagundi
+2 Sampalok
+3 Tanglad
+4 Ampalaya
+5 Dalairo
+6 Dita
+7 Jackfruit
+8 Mahogany
+9 Tipolo
